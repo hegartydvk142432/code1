@@ -1,5 +1,5 @@
 {
-    "repository": "",
+    "repository": "https://github.com/hegartydvk142432/code1",
     "stack": "container",
 	"env": {
       "APP_NAME" : {
